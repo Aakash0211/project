@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/project/static/css/main.78c1c0e7.chunk.css",
+    "main.js": "/project/static/js/main.60b4e2de.chunk.js",
+    "main.js.map": "/project/static/js/main.60b4e2de.chunk.js.map",
+    "runtime-main.js": "/project/static/js/runtime-main.54cadebe.js",
+    "runtime-main.js.map": "/project/static/js/runtime-main.54cadebe.js.map",
+    "static/js/2.6dcc6b43.chunk.js": "/project/static/js/2.6dcc6b43.chunk.js",
+    "static/js/2.6dcc6b43.chunk.js.map": "/project/static/js/2.6dcc6b43.chunk.js.map",
+    "index.html": "/project/index.html",
+    "static/css/main.78c1c0e7.chunk.css.map": "/project/static/css/main.78c1c0e7.chunk.css.map",
+    "static/js/2.6dcc6b43.chunk.js.LICENSE.txt": "/project/static/js/2.6dcc6b43.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/project/static/media/wallpaperflare.com_wallpaper.3c6ba898.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.54cadebe.js",
+    "static/js/2.6dcc6b43.chunk.js",
+    "static/css/main.78c1c0e7.chunk.css",
+    "static/js/main.60b4e2de.chunk.js"
+  ]
+}
